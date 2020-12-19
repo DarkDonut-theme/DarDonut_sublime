@@ -1,0 +1,131 @@
+{
+    "name": "DarkDonut Forest Coders",
+    "globals":
+    {
+        "background": "rgb(10, 25, 15)",
+        "foreground": "rgb(245, 255, 245)",
+        "caret": "rgb(255, 255, 55)",
+        "block_caret": "rgb(55, 255, 55)",
+        "invisibles": "rgb(25, 25, 25)",
+        "line_highlight": "rgba(55, 255, 155, 0.2)",
+        "selection": "rgba(55, 255, 155, 0.2)",
+        "find_highlight": "rgb(255, 255, 150)",
+        "find_highlight_foreground": "rgb(0, 0, 0)",
+        "selection_border": "rgba(255, 255, 255, 0.2)",
+        "brackets_foreground": "rgba(255, 255, 255, 0.5)",
+        "brackets_options": "underline",
+        "bracket_contents_foreground": "rgba(255, 255, 255, 0.5)",
+        "bracket_contents_options": "stippled_underline",
+        "tags_options": "stippled_underline",
+        "tags_foreground": "rgba(255, 255, 255, 0.5)"
+    },
+    "rules":
+    [
+        {
+            "scope": "misspelling",
+            "foreground": ""
+        },
+        {
+            "scope": "comment",
+            "foreground": "rgba(205, 255, 255, 0.5)",
+            "font_style": "italic"
+        },
+        {
+            "scope": "string",
+            "foreground": "rgb(255, 255, 150)"
+        },
+        {
+            "scope": "constant.numeric",
+            "foreground": "rgb(255, 125, 0)"
+        },
+        {
+            "scope": "constant.language",
+            "foreground": "rgb(255, 0, 255)"
+        },
+        {
+            "scope": "constant.character.escape",
+            "foreground": "rgb(0, 150, 255)"
+        },
+        {
+            "scope": "variable",
+            "font_style": "italic",
+            "foreground": "rgb(230, 230, 255)"
+        },
+        {
+            "scope": "keyword",
+            "foreground": "rgb(255, 60, 105)"
+        },
+        {
+            "scope": "keyword.control",
+            "foreground": "rgb(255, 60, 105)",
+            "font_style": "italic"
+        },
+        {
+            "scope": "keyword.operator",
+            "font_style": "bold"
+        },
+        {
+            "scope": "storage",
+            "foreground": "rgb(255, 105, 105)",
+            "font_style": "italic"
+        },
+        {
+            "scope": "storage.type",
+            "foreground": "rgb(55, 255, 55)"
+        },
+        {
+            "scope": "storage.modifier",
+            "foreground": "rgb(55, 255, 55)"
+        },
+        {
+            "scope": "storage.type.class",
+            "foreground": "rgb(255, 60, 105)"
+        },
+        {
+            "scope": "entity.name.class",
+            "foreground": "rgb(25, 255, 255)"
+        },
+        {
+            "scope": "entity.other.inherited-class",
+            "foreground": "rgb(25, 255, 255)"
+        },
+        {
+            "scope": "entity.name.function",
+            "foreground": "rgb(25, 255, 255)"
+        },
+        {
+            "scope": "entity.name.tag",
+            "foreground": "rgb(255, 60, 105)"
+        },
+        {
+            "scope": "entity.name.section",
+            "font_style": "bold"
+        },
+        {
+            "scope": "entity.other.attribute-name",
+            "foreground": "rgb(25, 255, 25)"
+        },
+        {
+            "scope": "variable.parameter",
+            "foreground": "rgb(255, 125, 0)"
+        },
+        {
+            "scope": "variable.language",
+            "foreground": "rgb(0, 245, 255)",
+        },
+        {
+            "scope": "variable.function",
+            "foreground": "rgb(25, 255, 25)",
+            "font_style": ""
+        },
+        {
+            "scope": "invalid",
+            "foreground": "rgba(200, 0, 0, 1)"
+        },
+        {
+            "scope": "invalid.deprecated",
+            "foreground": "rgba(200, 0, 0, 0.5)"
+        }
+        
+    ]
+}
