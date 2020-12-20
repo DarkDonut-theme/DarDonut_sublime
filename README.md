@@ -1,17 +1,38 @@
 # DarkDonut Color Scheme
 
-> A Dark Color Scheme for FOREST CODERS who love green for [Sublime Text](https://sublimetext.com)
+> A set of Color Schemes for [Sublime Text](https://sublimetext.com) that fits your flavour
 
-![Preview](preview.png)
+![Preview](media/preview.png)
 
-### Installation
-You can install the theme and keep up to date by cloning the repo directly into your **Packages** directory in the Sublime Text application settings area.
+### DarkDonut Space Coders 🚀 (Black)
+![DarkDonut Space Coders](media/space.png)
 
-You can locate your Sublime Text Packages directory by using the menu item Preferences -> Browse Packages....
 
-While inside the Packages directory, clone the theme repository using the command below:
+### DarkDonut Volcanic Coders 🔥 (Reddish-orange)
+![DarkDonut Volcanic Coders](media/volcanic.png)
 
-    git clone https://github.com/DarkDonut-theme/DarDonut_sublime.git
 
-### Activating theme
-Go to **Preferences => Color Scheme => User** and then select the **DarkDonut Forest Coders**
+### DarkDonut Forest Coders 🌲 (Green)
+![DarkDonut Forest Coders](media/forest.png)
+
+
+### DarkDonut Marine Coders 🐋 (Blue)
+![DarkDonut Marine Coders](media/marine.png)
+
+
+### DarkDonut Purple Coral Coders 🟣 (Purple)
+![DarkDonut Purple Coral Coders](media/coral.png)
+
+
+### DarkDonut Pink Spring Coders 🌸 (Pink)
+![DarkDonut Pink Spring Coders](media/spring.png)
+
+
+
+## Installation
+If you are using **Package Control**, you can easily install **DarkDonut Color Schemes** via the Package Control: Install Package menu item.
+This Color Scheme package is listed as DarkDonut Color Schemes in the packages list.
+
+
+## Activating theme
+Go to **Preferences => Color Scheme** and then select the **DarkDonut Color Schemes**
